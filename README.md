@@ -1,7 +1,5 @@
 # A/B Testing
 
-<img src="https://cdn-icons-png.flaticon.com/512/2274/2274874.png" style="display: block; margin: 0 auto;">
-
 ## Business Problem:
 Facebook recently introduced a new bidding type, 'average bidding', as an alternative to the existing bidding type called 'maximum bidding'. One of our clients, bombabomba.com, decided to test this new feature and would like to run an A/B test to see if average bidding converts more than maximum bidding. The A/B test has been going on for 1 month and bombabomba.com is now waiting for you to analyze the results of this A/B test. The ultimate success criterion for Bombabomba.com is Purchase. Therefore, the focus should be on the Purchase metric for statistical testing.
 
