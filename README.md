@@ -8,9 +8,7 @@ In this data set, which includes the website information of a company, there is 
 
 ## Variables:
 
-#### Total Features : 4 - Total Row : 40
-
-#### CSV File Size : 24 KB
+#### Total Features : 4 - Total Row : 40 - CSV File Size : 24 KB
 
 * **Impression:** Ad views
 
